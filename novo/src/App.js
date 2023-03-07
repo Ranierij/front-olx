@@ -1,10 +1,21 @@
 import React from 'react';
 import { connect } from 'react-redux';
+import { BrowserRouter } from 'react-router-dom';
+import { Template } from './components/MainComponents';
 import './App.css';
+import Routes from './Routes'
+import Header from './components/partials/Header'
+import Footer from './components/partials/Footer'
 
 const Page = (props) => {
   return (
-    <div>testando </div>
+    <BrowserRouter>
+      <Template>
+        <Header />
+        <Routes />
+        <Footer />
+      </Template>
+    </BrowserRouter>
   );
 }
 
