@@ -2,7 +2,7 @@
 
 ## Desenvolvido em React JS, Redux e Router
 
-Projeto do curso _ Desenvolvedor Fullstack Javascript JS_  
+Projeto do curso _Desenvolvedor Fullstack Javascript JS_  
 Curso da [Soitech](https://www.soitech.com.br/)
 
-_Autor: Ranieri Da Silva Jesuino_
+_Autor:Ranieri Da Silva Jesuino_
